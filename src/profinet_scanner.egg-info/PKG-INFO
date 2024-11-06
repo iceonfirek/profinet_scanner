@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: profinet_scanner
+Version: 0.1
+Requires-Dist: asyncio>=3.4.3
+Requires-Dist: pysnmp>=4.4.12
